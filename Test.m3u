@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png",ON Sports HD (MyTV)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hoiquan.dpdns.org/AutoKey/
-https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv-player.nupakachi.dpdns.org/widevine-proxy.php?url=https%3A%2F%2Ftv.vietanhtv.top%2Fmytv2%2Fkey.php&au=Dalvik%2F2.1.0
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (MyTV)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hoiquan.dpdns.org/AutoKey/
-https://s71103.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv-player.nupakachi.dpdns.org/widevine-proxy.php?url=https%3A%2F%2Ftv.vietanhtv.top%2Fmytv2%2Fkey.php&au=Dalvik%2F2.1.0
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
