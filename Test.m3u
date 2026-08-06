@@ -1,14 +1,78 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png",ON Sports HD (MyTV)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptv-player.nupakachi.dpdns.org/widevine-proxy.php?url=https%3A%2F%2Ftv.vietanhtv.top%2Fmytv2%2Fkey.php&au=Dalvik%2F2.1.0
+#EXTM3U url-tvg="https://vnepg.site/epgc.xml"
+#EXTINF:-1 tvg-id="vtv2hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv2.webp" , VTV2 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv3.webp" , VTV3 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv6.webp" , VTV6 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv667/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv7.webp" , VTV7 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv9.webp" , VTV9 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv1hd0" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv10.webp" , VTV10 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
+
+#EXTINF:-1 tvg-id="SPOTV" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/intl/sports/spotv.png", SPOTV VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/intl/sports/spotv2.png", SPOTV2 VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
+
+#EXTINF:-1 tvg-id="onsports" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sport VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (MyTV)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptv-player.nupakachi.dpdns.org/widevine-proxy.php?url=https%3A%2F%2Ftv.vietanhtv.top%2Fmytv2%2Fkey.php&au=Dalvik%2F2.1.0
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
+#EXTINF:-1 tvg-id="onsportsplus" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sport Plus VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
+
+#EXTINF:-1 tvg-id="onsportsnews" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sport News VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
+
+#EXTINF:-1 tvg-id="onfootball" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON Football VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
+
+#EXTINF:-1 tvg-id="ongolf" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp",ON Golf VIETANHTV(MDP)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv485/manifest.mpd
