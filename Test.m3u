@@ -1,78 +1,31 @@
-#EXTM3U url-tvg="https://vnepg.site/epgc.xml"
-#EXTINF:-1 tvg-id="vtv2hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv2.webp" , VTV2 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv3.webp" , VTV3 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv6.webp" , VTV6 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv667/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv7hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv7.webp" , VTV7 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv9hd" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv9.webp" , VTV9 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv1hd0" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/vn/vtv/fpt/vtv10.webp" , VTV10 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
-
-#EXTINF:-1 tvg-id="SPOTV" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/intl/sports/spotv.png", SPOTV VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
-
-#EXTINF:-1 tvg-id="SPOTV2" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://iptv-player.nupakachi.dpdns.org/logos/intl/sports/spotv2.png", SPOTV2 VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
-
-#EXTINF:-1 tvg-id="onsports" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sport VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
-
-#EXTINF:-1 tvg-id="onsportsplus" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sport Plus VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
-
-#EXTINF:-1 tvg-id="onsportsnews" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sport News VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
-
-#EXTINF:-1 tvg-id="onfootball" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON Football VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
-
-#EXTINF:-1 tvg-id="ongolf" group-title="06. 📌 VTV - BACKUP" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp",ON Golf VIETANHTV(MDP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv485/manifest.mpd
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=CAISjgMKVAogNTk4QjNGNTlGOEJGMUE4NzdEMDAwMDAwMDAwMDAwMDASIDU5OEIzRjU5RjhCRjFBODc3RDAwMDAwMDAwMDAwMDAwGgAgASgAOABAAEjGiLDVBhIECAEYARpmEhDe0Fy4Ch8AYK7XEWLddy8WGlB+3BtFhGizvseHzwg9ECE9spdOkPhSFf0tPkfMNIunViRHYeW4dIeO9zhYRoVpgLUIN9AOWRU3J7xS2vjK8dW1pTnmK3YlcQIB4TCmPF/p9iABGo8BChDYCZxsTrxKuIzm9pT5EuJtEhAMnEm7Mmr0EYaAHJZg/wl6GiB2cPmS/0Y2jSYtVqk0KdMyd4LK4IGcEJeLLgqMUlEu1iACKAEyBAgAIABCNAogOgolyWlIHwLnzB/akouWc0WloWZ8EtxfGAFmULS4pP0SEE8p/9yiko1CaGeMP4oeCF9iA0FMTHoCCA8gxoiw1QY449yVmwZyKgjpo6zVBhCD3a/VBhgAIAAqEIuOz8ROYs1tUhPibY5GKBkyBmNocm9tZRogmnRVPuTb9SjKYGeRG+NY5UA9cCC/SDQLAJ8VR5Ddwy8igAKjPNndBDB8XKk9IYOEplL/PHZgSXUF1s45jhHeuW1a3EeWq6hw6oAlmiXOiLUK9VVcXsI7zpo2BeS9kvI68VJPojXK1DaZfulEuRcgWYblTRPfcXu2MbWL/JLjmZiIfUNiG9NbPbe1uFayWPz6/8KBBExyelXCGEgBpb9SlQTqKNSim4b1ajE2Mq1OcfHFkPeK+8LugUqPwxY4ZTakv7hfwmBUn+wa5DTUsQ/g27T3CPkKSFkvqOaYujVxGQfDs769MyiRKEhJH/MZs4sUm1z4ls08AuxwYPwTQ1l0C9Bx/lA3Qstbl56FX6lVFG2sLWqudKRR8/UwUPrleiKKB1FUOjIKMDIwLjAuNCBCdWlsdCBvbiBTZXAgMSAyMDI2IDE1OjIzOjI3ICgxNzg4MzAxNDA3KUABWAA=
+https://livevliatmcdw.seenow.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=CAISjgMKVAogRTdBQjQyRjBDMDQ2NDNGMTZFMDAwMDAwMDAwMDAwMDASIEU3QUI0MkYwQzA0NjQzRjE2RTAwMDAwMDAwMDAwMDAwGgAgASgAOABAAEiohrDVBhIECAEYARpmEhDFvQmrFMk6ujAoHIBy0IzzGlBCEhEzBMHGbv4B/BsgT+hrXWujs99XL+HNMY0N+Wekq/Z9YhNhjUkmrCldxf0ot8zsdwEDE3d5s1XKHGicK7J3w12wBv6pNgRDY8POBQCgLyABGo8BChDYCZxsTrxKuIzm9pT5EuJtEhBNMJWevyDz+V/ALAELOgIRGiA4GVwkt7qwrIVIOu5fOsN5nZ5ORIdNLRAN79h0KhHwySACKAEyBAgAIABCNAogAgqZi5FifuWhJrVoF3ZqYGJJrU2gIX91aTr3AzpgXAQSEAQUzUdLfOB6d/YA+rC44jRiA0FMTHoCCA8gqIaw1QY449yVmwZyKgjpo6zVBhDhiK/VBhgAIAAqEIuOz8ROYs1tUhPibY5GKBkyBmNocm9tZRogQsmJ8se9OMKQZ+2+SsMlo3QKoz+yEWBb4vsgMtBVwc0igAIyw6G3LsWBoQMV5LCZRRNgvwf43FIV/Ty/JVrWGWaG/Y43R8Ohr+OPNLkzVHA1Mi3v2DK7xlgdkwLIefEPNMS/5b10kkYzQCU5MY25xiCsKJTETf+0+iSrji2OrzHmhRa7elb5CZHiEm9rxghy3w/Yj17qN7P6Et97sPzFKoBZT8SLFNRnadw1yn8GC+9Ukj7rhE5/zvvA/vD+fb891sUYki/o+sfoDuptsI5vUWalHwLCiN2omJXSinU9aFQDj0c0h9VYEwF3GJBwXo062HAYFe7xVhG/fBp5Hx9EhDUo3rezv0mT3Njcwa6eZ4dksuw9zzbm+l25TJMTVn5OaQeyOjIKMDIwLjAuNCBCdWlsdCBvbiBTZXAgMSAyMDI2IDE1OjIzOjI3ICgxNzg4MzAxNDA3KUABWAA=
+https://livebytatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=CAISjgMKVAogQkM1OUY5NENDN0FFRTlCRUE5MDAwMDAwMDAwMDAwMDASIEJDNTlGOTRDQzdBRUU5QkVBOTAwMDAwMDAwMDAwMDAwGgAgASgAOABAAEiii7DVBhIECAEYARpmEhBjB0IvEGBhRRKknvY/+/SXGlBCQ2YeJcffwDri0nKhykR9KlNjdV2HEtI20VIxRsKvsIzUc4zUSlOclh7Hg9Lf7k2QkqaaUO0zlwk3HUI5tIMUCd/+pmlzzymgJUPUwsT4wSABGo8BChDYCZxsTrxKuIzm9pT5EuJtEhDLaa8I1RfpYRmgmyWCpFJ3GiDt5BaPNZdoz2K+7LztFxLR4sT5dBrOmdAseBwIten6NCACKAEyBAgAIABCNAogH2Ukrgrw838/HSYkmVu50aOGyksMhcxQmtrvQlzZ+7ASEKt424D1kGeBy+b8IMlNNdhiA0FMTHoCCA8goouw1QY449yVmwZyKgjpo6zVBhDhiK/VBhgAIAAqEIuOz8ROYs1tUhPibY5GKBkyBmNocm9tZRogumOdCnrSDL+HEnnSGHALdkRda3RIZXqlaLirpTC9ZPAigAKYkKmA0PS4zcQNW8TUREtkF6X9LV+O+PCmyFahd2cVll1Z9Nfg4jJHvBaI3dLlO9hDkuq7G27/MdzZY7YlenoGDp/3dWukHk8cdb2bmjDJXxYqlei/9ZWuViV7v3ZKOewMs4qAYZ4DxjKYC8oYQgp1L7uQWyHYKKeUAHw6TeQl1cPA4CuSv3KDdL9IeAw8hr4IC27RkOuYjkJY03H+LQGIirUE9u8Qrw9wqH58Iwy2d5sGYKtp4bwyKayd4xzeguB9WIgi8gIzNycGmcyDaOaedppRMyjx47Ex6vCMRqL0FpydsLfBzQDxYZCC5VlJO5hw8Y7cW4ZtZprdh+NQKkWVOjIKMDIwLjAuNCBCdWlsdCBvbiBTZXAgMSAyMDI2IDE1OjIzOjI3ICgxNzg4MzAxNDA3KUABWAA=
+https://livebytatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=CAISjgMKVAogNDYyMENDQjY1ODA5QTBDRDkyMDAwMDAwMDAwMDAwMDASIDQ2MjBDQ0I2NTgwOUEwQ0Q5MjAwMDAwMDAwMDAwMDAwGgAgASgAOABAAEi4ibDVBhIECAEYARpmEhCd8ihxgAd0KT2jjfQcpRFJGlAhzLRZRpmHG9OichL2cZ8Qqiqp4pCbRMJmNYC9AMYlECJd3JviCV5SL7NqRTaiiXtPcEfyd7jouYeDz+PJuCzQZlyjT3tuZ2X7kk1lZULUmCABGo8BChDYCZxsTrxKuIzm9pT5EuJtEhBkG1ES5SZrX7dxSj/GC2HXGiA3/mIOwNW25Wao7XY6YYRRd9te0JCpw1X7JXLvMQ6lQiACKAEyBAgAIABCNAogXbjajsPAJizzviJ8cmKRKTttxU7IbIcX3ZikawvsECwSEAH4RcjJQUL31hNmzQm6PhZiA0FMTHoCCA8guImw1QY449yVmwZyKgjpo6zVBhDhiK/VBhgAIAAqEIuOz8ROYs1tUhPibY5GKBkyBmNocm9tZRog1lHx55bQ2w7fDNjZVg+B6CfOV4WxxYk5qYPTyhOPKpAigAIAW1F4tHizxH2IwDl0tB2Hrp0Av3aEeGnPEIJ3VOZo6P6UN0nExFt4bPlSHO+5YqSnPHIg/RL9m2LG7UDDCogrNTWqt5mdZgZBQ5zFd5DQYojD6Q2DdYZD53YD1ZHOl40ix26fvpIvcrES0ZfLXkt6o9mwkFAVs/VeSBBCkSaSG6fX3vujOhbQxtRJ/NJj4suvNUcc35O5bKjHMCvrc1bCxBe0ejl9jKBXTrIhlcU7y9wA81TtP8gUOwPB9hhs5/XepD8ORUdgSBGDym+fqi4N0abUFJkGFvELLTmQuMj8Eler+36CIga6YcFeLb1vev382jr28xqIkhk+MLRAt4shOjIKMDIwLjAuNCBCdWlsdCBvbiBTZXAgMSAyMDI2IDE1OjIzOjI3ICgxNzg4MzAxNDA3KUABWAA=
+https://img.vtvprime.vn/live/data8/VTV9_HD/Live_DASHDRM/VTV9_HD.mpd
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=CAISjgMKVAogMkRFRjhFNzMzQTgxNUJCNjlEMDAwMDAwMDAwMDAwMDASIDJERUY4RTczM0E4MTVCQjY5RDAwMDAwMDAwMDAwMDAwGgAgASgAOABAAEiyirDVBhIECAEYARpmEhDaqpDD8J2pBRw+NmU8XhWiGlCJ7fhGPvSHcw7fTU4a0MoAtI9zhA4jN7ECN+ve2d9EYBnkyV3Qj4D47zpIW2GdgaXn8AMDzTZpMzUQE/X9eQc3y+h0NRLPomEoSoYOrLoQKyABGo8BChDYCZxsTrxKuIzm9pT5EuJtEhBAQ3mz8VayjPnJhjmM3+BpGiCn3LcJeLO3xaeUK6rw94TstyTgPuDYMkclzJ5IZlOtUSACKAEyBAgAIABCNAogxW75JMuDGfTkFY39RLFGH1Un9owpJojFB3HIy/OdQyQSEMAIkDUXC6BPnD+dIZynlUhiA0FMTHoCCA8gsoqw1QY449yVmwZyKgjpo6zVBhDhiK/VBhgAIAAqEIuOz8ROYs1tUhPibY5GKBkyBmNocm9tZRogvYsoeNJGXkmZi4gmQJYnU2Rcflq/9IwMOyOKxVOGwGIigAIKbSVrmQGO2SQcVsoJfPjbhIDKennBwe/orDIyRl15t7cJCYres8zqMjDkkeCTqIOOOF4l++tMCXelgbVHwSW74Qnh39BDOs66GBIkbuuYSTOiLO+FYvUWguZz/u2I5f9ls8JIFAMoHZUayjzJp5FtcgsJwhr7zGelgHeS15E7SdZVCbHk9vBnF2eMXwhK/em7uN1BiUIkBBb8v39IL1iyAG3G9/3O0zXrp5G0v02acNdRqhnLGSnq7J8vMKZc7z1fMdmCYu1KJ73GdEoUe+bjEwJfm7aH4ja+RXjnFKnilKXxr2TdIIkIEWctWUjFykmjmaQhzVyv/8pI8MuFD3eEOjIKMDIwLjAuNCBCdWlsdCBvbiBTZXAgMSAyMDI2IDE1OjIzOjI3ICgxNzg4MzAxNDA3KUABWAA=
+https://img.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd
